@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.tmp
+*.bak
+*.log
+
+# Base de datos SQLite (opcional, ya que la usamos para el MCP)
+# datos/cartera.db
+
+# Archivos de la prueba original
+03_Prueba_casa.docx
+*.pdf
+
+# Archivos personales/auxiliares
+CHECKLIST_FINAL.md
+LISTO_PARA_ENTREGAR.md
+BORRADOR_*.md
+
+# Git
+.git/
