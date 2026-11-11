@@ -1,0 +1,24 @@
+{
+  "mcpServers": {
+    "filesystem-cartera": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "/Users/macbook/Documents/PRUEBA_AVIPAZ_DARWIN_ILA/cartera/datos"
+      ],
+      "env": {},
+      "disabled": false
+    },
+    "sqlite-cartera": {
+      "command": "uvx",
+      "args": [
+        "mcp-server-sqlite",
+        "--db-path",
+        "/Users/macbook/Documents/PRUEBA_AVIPAZ_DARWIN_ILA/cartera/datos/cartera.db"
+      ],
+      "env": {},
+      "disabled": false
+    }
+  }
+}

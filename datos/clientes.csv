@@ -1,0 +1,15 @@
+﻿id,nombre,ruc,ciudad,estado
+1,Granja Los Pinos,1890000010001,Ambato,activo
+2,Avícola El Sol,1890000020001,Ambato,activo
+3,Criadero San José,1890000030001,Latacunga,activo
+4,Pollos del Valle,1890000040001,Baños,activo
+5,Hacienda La Esperanza,1890000050001,Riobamba,activo
+6,Porcícola Los Andes,1890000060001,Ambato,activo
+7,Agropecuaria Santa Rosa,1890000070001,Pelileo,activo
+8,Granja Avícola El Sol S.A.,1890000020001,Ambato,activo
+9,Distribuidora Cevallos,1890000090001,Ambato,inactivo
+10,Granja Doña Mercedes,1890000100001,Cevallos,activo
+11,Avícola Pichincha Sur,1890000110001,Quito,activo
+12,Criadero Los Laureles,1890000120001,Salcedo,activo
+13,Granja Tres Hermanos,1890000130001,Ambato,activo
+14,Pollera Don Aurelio,1890000140001,Píllaro,activo
